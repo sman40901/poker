@@ -1,0 +1,36 @@
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\bin\Debug\Final Project Poker.exe.config
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\bin\Debug\Final Project Poker.exe
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\bin\Debug\Final Project Poker.pdb
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\bin\Debug\Final Project Poker.xml
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.vbprojAssemblyReference.cache
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\obj\Debug\Final_Project_Poker.FrmPoker.resources
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\obj\Debug\Final_Project_Poker.Resources.resources
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.vbproj.GenerateResource.cache
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.vbproj.CoreCompileInputs.cache
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.exe
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.xml
+D:\college classes\Winter Quarter\CS 115 intro to programing\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.pdb
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\bin\Debug\Final Project Poker.exe.config
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\bin\Debug\Final Project Poker.exe
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\bin\Debug\Final Project Poker.pdb
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\bin\Debug\Final Project Poker.xml
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.vbprojAssemblyReference.cache
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\obj\Debug\Final_Project_Poker.FrmPoker.resources
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\obj\Debug\Final_Project_Poker.Resources.resources
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.vbproj.GenerateResource.cache
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.vbproj.CoreCompileInputs.cache
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.exe
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.xml
+D:\Edmonds\downloads\Final Project Poker\Final Project Poker\obj\Debug\Final Project Poker.pdb
+D:\dotNet\poker\Final Project Poker\bin\Debug\Final Project Poker.exe.config
+D:\dotNet\poker\Final Project Poker\bin\Debug\Final Project Poker.exe
+D:\dotNet\poker\Final Project Poker\bin\Debug\Final Project Poker.pdb
+D:\dotNet\poker\Final Project Poker\bin\Debug\Final Project Poker.xml
+D:\dotNet\poker\Final Project Poker\obj\Debug\Final Project Poker.vbprojAssemblyReference.cache
+D:\dotNet\poker\Final Project Poker\obj\Debug\Final_Project_Poker.FrmPoker.resources
+D:\dotNet\poker\Final Project Poker\obj\Debug\Final_Project_Poker.Resources.resources
+D:\dotNet\poker\Final Project Poker\obj\Debug\Final Project Poker.vbproj.GenerateResource.cache
+D:\dotNet\poker\Final Project Poker\obj\Debug\Final Project Poker.vbproj.CoreCompileInputs.cache
+D:\dotNet\poker\Final Project Poker\obj\Debug\Final Project Poker.exe
+D:\dotNet\poker\Final Project Poker\obj\Debug\Final Project Poker.xml
+D:\dotNet\poker\Final Project Poker\obj\Debug\Final Project Poker.pdb
